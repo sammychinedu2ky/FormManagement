@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/sammychinedu2ky/FormManagement.git/static/js/main.ee564c88.chunk.js",
+    "main.js.map": "/sammychinedu2ky/FormManagement.git/static/js/main.ee564c88.chunk.js.map",
+    "runtime-main.js": "/sammychinedu2ky/FormManagement.git/static/js/runtime-main.8b1eb5d4.js",
+    "runtime-main.js.map": "/sammychinedu2ky/FormManagement.git/static/js/runtime-main.8b1eb5d4.js.map",
+    "static/js/2.41dc4622.chunk.js": "/sammychinedu2ky/FormManagement.git/static/js/2.41dc4622.chunk.js",
+    "static/js/2.41dc4622.chunk.js.map": "/sammychinedu2ky/FormManagement.git/static/js/2.41dc4622.chunk.js.map",
+    "index.html": "/sammychinedu2ky/FormManagement.git/index.html",
+    "precache-manifest.4d43908af7a60566ec38c55de5756c57.js": "/sammychinedu2ky/FormManagement.git/precache-manifest.4d43908af7a60566ec38c55de5756c57.js",
+    "service-worker.js": "/sammychinedu2ky/FormManagement.git/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1eb5d4.js",
+    "static/js/2.41dc4622.chunk.js",
+    "static/js/main.ee564c88.chunk.js"
+  ]
+}
