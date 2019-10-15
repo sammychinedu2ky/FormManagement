@@ -13,7 +13,7 @@
     "gh-pages": "^2.1.1",
     "typescript": "3.3.3"
   },
-  "homepage": "https://github.com/sammychinedu2ky/FormManagement.git",
+  "homepage": "http://sammychinedu2ky.github.io/FormManagement",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
